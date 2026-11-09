@@ -62,7 +62,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=aikathoughts&theme=dark&hide_border=true](https://github.com/aikathoughs/aikathoughts/edit/main/README.md)" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
