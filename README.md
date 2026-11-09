@@ -4,22 +4,22 @@
 
 <h1 align="center">Hi 👋, Imma Aika...</h1>
 
-<h3 align="center">Backend Developer</h3>
-<h3 align="center">Just Code</h3>
+<h3 align="center">Full Stack Developer (i prefer being Frontend Dev)</h3>
+<h3 align="center">Just Code..when i need to</h3>
 
 <p align="center">
-  Building reliable backend systems with clean architecture and scalable solutions.
+  Building Clean UI/UX or reliable backend systems with clean architecture and scalable solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" src="YOUR_RIGHT_IMAGE_URL" width="280" alt="Pixel Art" />
+<img align="right" src="Analysis output 1.png" width="280" alt="Pixel Art" />
 
-**Aika, Here** — a final-year Computer Engineering student focused on backend development.
+**Aika, Here** — a Fourth Year IT student focused on Full Stack development.
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+I dont enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
 
 Currently, I'm learning **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
