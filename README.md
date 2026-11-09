@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="001c319350854cad6b63e466f664441b.jpg" width="100%" alt="Header Banner" />
+  <img src="bored lab it bg.png" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi 👋, Imma [Your Name]</h1>
