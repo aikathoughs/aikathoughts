@@ -70,5 +70,5 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aikathoughts&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
