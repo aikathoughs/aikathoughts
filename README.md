@@ -36,7 +36,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/angelaica-mae-harochoc-988b23309/" target="_blank">
+  <a href="www.linkedin.com/in/angelaica-mae-harochoc-988b23309" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;
