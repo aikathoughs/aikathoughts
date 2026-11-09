@@ -2,7 +2,7 @@
   <img src="bored lab it bg.png" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Hi 👋, Imma [Your Name]</h1>
+<h1 align="center">Hi 👋, Imma Aika...</h1>
 
 <h3 align="center">Backend Developer</h3>
 <h3 align="center">Just Code</h3>
@@ -32,15 +32,15 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/aikathoughts" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/angelaica-mae-harochoc-988b23309/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:aikapanuelos@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
 </p>
@@ -62,7 +62,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aikathoughts&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
